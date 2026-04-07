@@ -49,8 +49,3 @@ Behme, L., Galhotra, S., Beedkar, K., & Markl, V. (2024). Fainder: A fast and ac
 
 # Data Discovery for Video Data
 
-
-
-# Search Tips
-
-allintitle: "data discovery" source:"management of data"|source:"vldb"|source:"icde"|source:"cidr”|source:”Transactions on Knowledge and Data Engineering”|source:”TODS”
