@@ -5,9 +5,19 @@
 
 # Survey
 
+Freire, J., Fan, G., Feuer, B., Koutras, C., Liu, Y., Peña, E., ... & Wu, E. (2025). Large language models for data discovery and integration: Challenges and opportunities. IEEE Data Engineering Bulletin.
+
+Hulsebos, M., Lin, W., Shankar, S., & Parameswaran, A. (2024, June). It took longer than i was expecting: Why is dataset search still so hard?. In Proceedings of the 2024 Workshop on Human-In-the-Loop Data Analytics (pp. 1-4).
+
 Paton, N. W., Chen, J., & Wu, Z. (2023). Dataset discovery and exploration: A survey. ACM Computing Surveys, 56(4), 1-37.
 
 Chapman, A., Simperl, E., Koesten, L., Konstantinidis, G., Ibáñez, L. D., Kacprzak, E., & Groth, P. (2020). Dataset search: a survey. The VLDB Journal, 29(1), 251-272.
+
+
+
+# Tutorial
+
+
 
 # Benchmark
 Wei, Z., Guo, Y., Li, J., Han, X., Jin, X., & Ma, C. (2026). Revisiting Task-Oriented Dataset Search in the Era of Large Language Models: Challenges, Benchmark, and Solution. VLDB 2026.
@@ -29,6 +39,8 @@ Li, W. Z., & Galhotra, S. (2026). Octopus: A Lightweight Entity-Aware System for
 # Data Discovery for Textual Data
 Wei, Z., Guo, Y., Li, J., Han, X., Jin, X., & Ma, C. (2026). Revisiting Task-Oriented Dataset Search in the Era of Large Language Models: Challenges, Benchmark, and Solution. VLDB 2026.
 
+Behme, L., Galhotra, S., Beedkar, K., & Markl, V. (2024). Fainder: A fast and accurate index for distribution-aware dataset search. Proceedings of the VLDB Endowment, 17(11), 3269-3282.
+
 
 
 # Data Discovery for Image Data
@@ -37,3 +49,8 @@ Wei, Z., Guo, Y., Li, J., Han, X., Jin, X., & Ma, C. (2026). Revisiting Task-Ori
 
 # Data Discovery for Video Data
 
+
+
+# Search Tips
+
+allintitle: "data discovery" source:"management of data"|source:"vldb"|source:"icde"|source:"cidr”|source:”Transactions on Knowledge and Data Engineering”|source:”TODS”
