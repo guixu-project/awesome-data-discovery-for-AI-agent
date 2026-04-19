@@ -34,6 +34,11 @@ Srinivas, K., Dolby, J., Abdelaziz, I., Hassanzadeh, O., Kokel, H., Khatiwada, A
 # Data Discovery for Relational Tables
 Li, W. Z., & Galhotra, S. (2026). Octopus: A Lightweight Entity-Aware System for Multi-Table Data Discovery and Cell-Level Retrieval. arXiv preprint arXiv:2601.02304.
 
+Esmailoghli, M., Schnell, C., Miller, R. J., & Abedjan, Z. (2025, May). Blend: A unified data discovery system. In 2025 IEEE 41st International Conference on Data Engineering (ICDE) (pp. 737-750). IEEE.
+
+Khatiwada, A., Kokel, H., Abdelaziz, I., Chaudhury, S., Dolby, J., Hassanzadeh, O., ... & Srinivas, K. (2025, May). Tabsketchfm: Sketch-based tabular representation learning for data discovery over data lakes. In 2025 IEEE 41st International Conference on Data Engineering (ICDE) (pp. 1523-1536). IEEE.
+
+Abedjan, Z., Esmailoghli, M., & Galhotra, S. (2025). Data Discovery in Data Lakes: Operations, Indexes, Systems. Proceedings of the VLDB Endowment, 18(12), 5455-5459.
 
 
 # Data Discovery for Textual Data
